@@ -18,7 +18,6 @@ void LevelOrder(BT root);
 
 int main()
 {
-    freopen("data.in","r",stdin);
 	BT root;
 	CreateBt(&root);
 	printf("œ»–Ú±È¿˙£∫\n");
