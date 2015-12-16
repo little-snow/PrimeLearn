@@ -67,12 +67,3 @@ void Prim(graph G, int closest[], int vex_num){
         }
     }
 }
-
-
-
-
-
-
-
-
-
