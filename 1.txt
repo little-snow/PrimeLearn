@@ -1914,7 +1914,6 @@ t00wire_yyg
 t00_by30
 t00_nd30
 t00_nd45
-t00_prxy
 t00_sx20
 t00_sx30
 t00_wire
